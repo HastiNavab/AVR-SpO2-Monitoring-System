@@ -52,3 +52,7 @@ Proteus: Circuit simulation files
 Images: Circuit and output screenshots
 
 Documentation: Project documents
+
+## Project Preview
+
+![Circuit Simulation](Documentation/SpO2-Monitoring-System.png)
