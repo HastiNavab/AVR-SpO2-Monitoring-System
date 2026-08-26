@@ -49,9 +49,7 @@ Code: AVR Assembly source files
 
 Proteus: Circuit simulation files
 
-Images: Circuit and output screenshots
-
-Documentation: Project documents
+Documentation: Project documents and circuit screenshots
 
 ## Project Preview
 
